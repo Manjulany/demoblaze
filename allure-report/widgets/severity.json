@@ -1,0 +1,1 @@
+[{"uid":"d0186bdd18e20bc","name":"signup to demoblaze as a new user","time":{"start":1725435113784,"stop":1725435116748,"duration":2964},"status":"passed","severity":"normal"},{"uid":"9786d84caf8cc5c7","name":"Login to demoblaze and add products to the cart","time":{"start":1725434971118,"stop":1725435113783,"duration":142665},"status":"passed","severity":"normal"}]

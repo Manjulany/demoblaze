@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2964","signup to demoblaze as a new user","","Wed Sep 04 16:31:53 JST 2024","passed","Wed Sep 04 16:31:56 JST 2024","","","",""
+"","142665","Login to demoblaze and add products to the cart","","Wed Sep 04 16:29:31 JST 2024","passed","Wed Sep 04 16:31:53 JST 2024","","","",""

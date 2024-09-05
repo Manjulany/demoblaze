@@ -1,0 +1,15 @@
+{
+    "ADD": [
+        "Samsung galaxy s6",
+        "Nokia lumia 1520",
+        "Sony vaio i5",
+        "MacBook air",
+        "ASUS Full HD",
+        "Apple monitor 24"
+    ],
+    "REMOVE": [
+        "MacBook air",
+        "Apple monitor 24",
+        "Nokia lumia 1520"
+    ]
+}
